@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TDDAssignment", "TDDAssignment\TDDAssignment.csproj", "{D3E3E0C8-572B-4A6E-9C4D-DC74C311510D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TDDAssignmentTest", "TDDAssignmentTest\TDDAssignmentTest.csproj", "{17E0E7F3-AFF7-4AB9-9080-FD70E2C3B505}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D3E3E0C8-572B-4A6E-9C4D-DC74C311510D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3E3E0C8-572B-4A6E-9C4D-DC74C311510D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3E3E0C8-572B-4A6E-9C4D-DC74C311510D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3E3E0C8-572B-4A6E-9C4D-DC74C311510D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{17E0E7F3-AFF7-4AB9-9080-FD70E2C3B505}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17E0E7F3-AFF7-4AB9-9080-FD70E2C3B505}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17E0E7F3-AFF7-4AB9-9080-FD70E2C3B505}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17E0E7F3-AFF7-4AB9-9080-FD70E2C3B505}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9850321A-8BF4-406B-B8F9-AF30E622A15B}
+	EndGlobalSection
+EndGlobal
